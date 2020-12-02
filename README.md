@@ -4,7 +4,7 @@ This is an implementation of our paper in COLING2020:
 
 
 
-This code is based on our baseline MMPMS: [MMPMS](https://github.com/gyhd/python_study/tree/c84ee2e945bcf86a1066360bbf4be774836444ff/paddle_models-develop/PaddleNLP/Research/IJCAI2019-)
+This code is based on our baseline MMPMS: [MMPMS](https://github.com/gyhd/python_study/tree/c84ee2e945bcf86a1066360bbf4be774836444ff/paddle_models-develop/PaddleNLP/Research/IJCAI2019-MMPMS)
 
 
 ### Requirements
