@@ -1,6 +1,8 @@
 This is an implementation of our paper in COLING2020:
 
 **One Comment from One Perspective: An Effective Strategy for Enhancing Automatic Music Comment**
+[Paper Path](https://www.aclweb.org/anthology/2020.coling-main.259/)
+
 
 
 
